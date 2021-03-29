@@ -1,0 +1,8 @@
+#DARK-STORM : KALI LINUX
+#DARKNESS YT : PARROT SECURITY
+#MALWARE-VIRUS
+#I LOVE BASH
+#GNU OS 2.34.1
+pkg install nmap
+#without root
+mkdir Server
